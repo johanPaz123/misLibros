@@ -1,0 +1,24 @@
+.t1 {
+    color: #757575;
+}
+
+.t2{
+    background-color: #757500;
+}
+
+.t3{
+    color: #7A7A00;
+}
+
+caption{
+    padding: 0.5rem;
+}
+
+
+#garantias, #garantias p {
+  text-align: left;
+}
+
+#info_en{
+    font-size: 13px;
+}
